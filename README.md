@@ -11,9 +11,9 @@ python neural_style/neural_style.py eval --content-image </path/to/content/image
 * `--cuda`: set it to 1 for running on GPU, 0 for CPU.
 
 <p align="center">
-    <img src="images/style-images/mosaic.jpg" height="200px">
-    <img src="images/content-images/amber.jpg" height="200px">
-    <img src="images/output-images/amber-mosaic.jpg" height="440px">
+    <img src="images/style-images/Little_dinosaur.jpg" height="300px">
+    <img src="images/content-images/Building.jpg" height="300px">
+    <img src="images/output-images/Little_dinosaur.png" height="300px">
 </p>
 
 训练模型
