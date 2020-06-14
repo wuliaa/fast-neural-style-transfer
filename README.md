@@ -12,7 +12,7 @@ python neural_style/neural_style.py eval --content-image </path/to/content/image
 
 <p align="center">
     <img src="images/style-images/Little_dinosaur.jpg" height="300px">
-    <img src="images/content-images/Building.jpg" height="300px">
+    <img src="images/content-images/building.jpg" height="300px">
     <img src="images/output-images/Little_dinosaur.png" height="300px">
 </p>
 
