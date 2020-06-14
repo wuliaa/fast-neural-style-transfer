@@ -11,9 +11,9 @@ python neural_style/neural_style.py eval --content-image </path/to/content/image
 * `--cuda`: set it to 1 for running on GPU, 0 for CPU.
 
 <p align="center">
-    <img src="images/style-images/Little_dinosaur.jpg" height="300px">
-    <img src="images/content-images/building.jpg" height="300px">
-    <img src="images/output-images/Little_dinosaur.png" height="300px">
+    <img src="images/style-images/Little_dinosaur.jpg" height="250px">
+    <img src="images/content-images/building.jpg" height="250px">
+    <img src="images/output-images/Little_dinosaur.png" height="250px">
 </p>
 
 训练模型
@@ -26,3 +26,11 @@ There are several command line arguments, the important ones are listed below
 * `--style-image`: path to style-image.
 * `--save-model-dir`: path to folder where trained model will be saved.
 * `--cuda`: set it to 1 for running on GPU, 0 for CPU.
+
+<p align="center">
+  <img src='images/style-images/blue_star.jpg' height="174px">
+  <img src='images/output-images/blue_star.png' height="174px">
+  <br>
+  <img src='images/output-images/green.png' height="174px">
+  <img src='images/style-images/green.jpg' height="174px">
+</p>
